@@ -20,4 +20,10 @@ Hierbij hoort natuurlijk ook een goede toegankelijkheid op de website. Dit is do
 
 De pagina is gemaakt met HTML en CSS.
 
+### Licentie
 
+***
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
