@@ -1,10 +1,6 @@
 # Buurtcampus-Oost
 
-### De user story:
-
-***
-
-* _Als buurtbewoner van Amsterdam Oost wil ik kunnen zien welke stekjes momenteel in de stekjeskast zitten, zodat ik kan overwegen een stekje om te ruilen._
+all-human-accessible-website: Een opdracht om een website toegankelijk te maken voor iedereen!
 
 Check hier mijn oplossing! https://rosahoffer.github.io/the-client-case/
 
