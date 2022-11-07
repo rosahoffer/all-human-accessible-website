@@ -2,7 +2,7 @@
 
 **Een opdracht om een website toegankelijk te maken voor iedereen!**
 
-Bekijk hier mijn website! https://rosahoffer.github.io/the-client-case/
+Bekijk hier mijn website! https://rosahoffer.github.io/all-human-accessible-website/
 
 ![stekjesbieb-platform-devices](https://user-images.githubusercontent.com/112861375/195560968-e3145483-9537-4b38-932a-5105ef80e00b.png)
 
