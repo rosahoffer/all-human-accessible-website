@@ -1,12 +1,8 @@
 # Buurtcampus-Oost
 
-### De user story:
+**Een opdracht om een website toegankelijk te maken voor iedereen!**
 
-***
-
-* _Als buurtbewoner van Amsterdam Oost wil ik kunnen zien welke stekjes momenteel in de stekjeskast zitten, zodat ik kan overwegen een stekje om te ruilen._
-
-Check hier mijn oplossing! https://rosahoffer.github.io/the-client-case/
+Bekijk hier mijn website! https://rosahoffer.github.io/all-human-accessible-website/
 
 ![stekjesbieb-platform-devices](https://user-images.githubusercontent.com/112861375/195560968-e3145483-9537-4b38-932a-5105ef80e00b.png)
 
@@ -16,17 +12,7 @@ Check hier mijn oplossing! https://rosahoffer.github.io/the-client-case/
 
 De Buurtcampus is een dynamische, laagdrempelige plek waar iedereen zich welkom en uitgenodigd voelt om kennis op te doen, te ontwikkelen en te delen. Met als doel: samen de buurt duurzamer, gezonder en inclusiever maken.
 
-Bij Buurtcampus wordt op korte termijn een stekjesbieb neergezet. Buurtbewoners kunnen stekjes halen uit de stekjesbieb, maar ook stekjes brengen naar de stekjesbieb. De stekjesbieb dient als middel om buurtbewoners met elkaar te verbinden. Daarnaast leren bewoners hoe ze op een duurzame manier met planten kunnen omgaan en draagt het bij aan een gezondere leefomgeving in huis.
-
-Buurtcampus-Oost wil met de website graag het volgende bereiken:
-
-* De campus ook voor jongeren aantrekkelijk maken.
-* Buurtcampus groener maken.
-* Buurtbewoners verbinden.
-* Ruilprincipe verbeteren (zorgen dat mensen niet alleen pakken).
-* Uiteindelijk is het een cadeau aan de buurt.
-
-Ook wilt Buurtcampus-Oost graag de huisstijl aanhouden. Daarom zijn bepaalde kleuren, lettertypen en fonts gebruikt.
+Hierbij hoort natuurlijk ook een goede toegankelijkheid op de website. Dit is door middel gedaan van een Lighthouse Rapport en verschillende handmatige testen. Ook is de website te bereiken met een screenreader. Dit is uitgoevoerd met de VoiceOver van Apple.
 
 ### Kenmerken
 
@@ -34,4 +20,10 @@ Ook wilt Buurtcampus-Oost graag de huisstijl aanhouden. Daarom zijn bepaalde kle
 
 De pagina is gemaakt met HTML en CSS.
 
+### Licentie
 
+***
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
